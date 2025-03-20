@@ -1,9 +1,11 @@
-<h2 align="left">Hi 👋! My name is Priyanshi Singh, and I'm from Germany </h2>
-<h2 align="center">UX Designer & Researcher | Frontend Developer </h2>
+<h2 align="left">Hi 👋! My name is Priyanshi Singh, and I'm from Germany 🇩🇪 </h2>
+<h2 align="left">🚀 UX Designer & Researcher | 👩🏻‍💻 Frontend Developer </h2>
+I specialize in creating human-centred designs backed by research and developing interactive front-end experiences. My focus is on usability, accessibility, and seamless user experiences.  
+
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
 
 ###
 
