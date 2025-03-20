@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Priyanshi Singh, and I'm a from Germany, EU </h2>
+<h3 align="center">UX Designer & Researcher | Frontend Developer
 
 ###
 
