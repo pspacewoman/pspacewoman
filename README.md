@@ -22,8 +22,6 @@ I specialize in creating human-centred designs backed by research and developing
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="adobe xd logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="30" alt="canva logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/muralco/muralco-icon.svg" height="30" alt="mural logo"  />
