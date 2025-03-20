@@ -28,6 +28,16 @@ I specialize in creating human-centred designs backed by research and developing
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/muralco/muralco-icon.svg" height="30" alt="mural logo"  />
   <img width="12" />
+  
+  <a href="https://medium.com/@priyanshiuiux" target="https://medium.com/@priyanshiuiux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" height="30" alt="Medium logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://www.behance.net/priyanshisingh4" target="https://www.behance.net/priyanshisingh4">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="Behance logo" />
+  </a>
+    
 </div>
 
 
@@ -45,7 +55,7 @@ I specialize in creating human-centred designs backed by research and developing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <a href="https://github.com/pspacewoman" target="https://github.com/pspacewoman">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
