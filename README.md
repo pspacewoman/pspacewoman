@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Singh</h1>
-<h3 align="center">Visionary UX Designer & Researcher and A passionate frontend developer from India</h3>
+<h3 align="center">UX Designer & Researcher | Frontend Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pspacewoman&label=Profile%20views&color=0e75b6&style=flat" alt="pspacewoman" /> </p>
 
