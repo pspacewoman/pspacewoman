@@ -2,7 +2,6 @@
 <h2 align="left">🚀 UX Designer & Researcher | 👩🏻‍💻 Frontend Developer </h2>
 I specialize in creating human-centred designs backed by research and developing interactive front-end experiences. My focus is on usability, accessibility, and seamless user experiences.  
 
-
 ###
 
 <img align="right" height="230" src="https://i.pinimg.com/originals/2e/ea/2a/2eea2a2a5ee6ce0180ddc6bfc5064bc0.gif"/>
@@ -57,13 +56,13 @@ I specialize in creating human-centred designs backed by research and developing
 
 <div align="left">
   <a href="mailto:priyanshisingh596@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"/>
   <a href="https://www.linkedin.com/in/spriyanshi/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
   <a href="https://www.instagram.com/thefoundergirl_/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"/>
   <a href="https://discord.com/channels/@mccgrey" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"/>
 </div>
 
 ###
