@@ -13,7 +13,7 @@ I specialize in creating human-centred designs backed by research and developing
 <div align="left">
 
   <a href="https://priyanshisingh.framer.website/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> 
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="30"/> </a> 
   <img width="12"/>    
   <a href="https://www.figma.com/@priyanshisingh" target="https://www.figma.com/@priyanshisingh">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"/>
@@ -26,11 +26,6 @@ I specialize in creating human-centred designs backed by research and developing
   <img width="12"/>
   <img src="https://www.vectorlogo.zone/logos/muralco/muralco-icon.svg" height="30" alt="mural logo"/>
   <img width="12"/>
-  
-  <a href="https://medium.com/@priyanshiuiux" target="https://medium.com/@priyanshiuiux">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" height="30" alt="Medium logo"/>
-  <img width="12" />
-
   <a href="https://www.behance.net/priyanshisingh4" target="https://www.behance.net/priyanshisingh4">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="Behance logo"/>
     
@@ -42,6 +37,7 @@ I specialize in creating human-centred designs backed by research and developing
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="30" alt="chatgpt logo"/>
   <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="visual studio code logo"/>
@@ -51,6 +47,14 @@ I specialize in creating human-centred designs backed by research and developing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"/>
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="30"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="30"/>
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="30"/> </a>
+  <img width="12" />
+  
 </div>
 
 ###
