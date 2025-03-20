@@ -5,7 +5,7 @@ I specialize in creating human-centred designs backed by research and developing
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
+<img align="right" height="230" src="https://i.pinimg.com/originals/2e/ea/2a/2eea2a2a5ee6ce0180ddc6bfc5064bc0.gif"/>
 
 ###
 
