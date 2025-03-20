@@ -24,12 +24,6 @@ I specialize in creating human-centred designs backed by research and developing
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/muralco/muralco-icon.svg" height="30" alt="mural logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/miro/miro-icon.svg" height="30" alt="miro logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Microsoft_Whiteboard_icon.svg" height="30" alt="microsoft whiteboard logo"  />
-  <img width="12" /> 
-  <img src="https://seeklogo.com/images/U/usertesting-logo-9CD39BA320-seeklogo.com.png" height="30" alt="user testing logo"  />
-  <img width="12" />
 </div>
 
 
@@ -37,8 +31,6 @@ I specialize in creating human-centred designs backed by research and developing
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="30" alt="chatgpt logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/GitHub_Copilot_logo.svg/120px-GitHub_Copilot_logo.svg.png" height="30" alt="github copilot logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
