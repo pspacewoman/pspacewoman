@@ -12,6 +12,9 @@ I specialize in creating human-centred designs backed by research and developing
 ## 🛠️ UX Tools & Software  
 
 <div align="left">
+  <a href="https://priyanshisingh.framer.website/" target="_blank">
+  <img src="https://www.svgrepo.com/show/331603/framer.svg" height="30" alt="Framer logo" />
+  <img width="12" />
   <a href="https://www.figma.com/@priyanshisingh" target="https://www.figma.com/@priyanshisingh">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
