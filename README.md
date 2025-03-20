@@ -29,12 +29,10 @@ I specialize in creating human-centred designs backed by research and developing
   
   <a href="https://medium.com/@priyanshiuiux" target="https://medium.com/@priyanshiuiux">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" height="30" alt="Medium logo"/>
-  </a>
   <img width="12" />
 
   <a href="https://www.behance.net/priyanshisingh4" target="https://www.behance.net/priyanshisingh4">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="Behance logo"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="Behance logo"/>
     
 </div>
 
