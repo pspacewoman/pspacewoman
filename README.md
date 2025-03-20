@@ -12,6 +12,7 @@ I specialize in creating human-centred designs backed by research and developing
 ## 🛠️ UX Tools & Software  
 
 <div align="left">
+  <a href="https://www.figma.com/@priyanshisingh" target="https://www.figma.com/@priyanshisingh">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
