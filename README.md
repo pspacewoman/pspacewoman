@@ -32,7 +32,7 @@ I specialize in creating human-centred designs backed by research and developing
 </div>
 
 
-## 💻 Frontend Tech Stack  
+## 💻 Tech & Tool Stack  
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="30" alt="chatgpt logo"/>
