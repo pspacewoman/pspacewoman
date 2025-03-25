@@ -8,7 +8,7 @@ I specialize in creating human-centred designs backed by research and developing
 
 ###
 
-## 🛠️ UX Tools & Software  
+## 🛠️ Tools & Software  
 
 <div align="left">
 
@@ -32,7 +32,7 @@ I specialize in creating human-centred designs backed by research and developing
 </div>
 
 
-## 💻 Tech & Tool Stack  
+## 💻 Tech & Frameworks
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="30" alt="chatgpt logo"/>
