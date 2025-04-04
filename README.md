@@ -11,26 +11,27 @@ I specialize in creating human-centred cross-platform connected designs and reco
 ## 🛠️ Tools & Software  
 
 <div align="left">
-
-  <a href="https://priyanshisingh.framer.website/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="30"/> </a> 
-  <img width="12"/>    
-  <a href="https://www.figma.com/@priyanshisingh" target="https://www.figma.com/@priyanshisingh">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="adobe xd logo"/>
-  <img width="12"/>
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="30" alt="canva logo"/>
-  <img width="12"/>
-  <img src="https://www.vectorlogo.zone/logos/muralco/muralco-icon.svg" height="30" alt="mural logo"/>
-   <img width="12"/>
-  <img src="https://www.behance.net/priyanshisingh4" target="https://www.behance.net/priyanshisingh4"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="Behance logo"/>
-    
+    <a href="https://priyanshisingh.framer.website/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="30" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.figma.com/@priyanshisingh" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+    </a>
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="adobe xd logo" />
+    &nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="30" alt="canva logo" />
+    &nbsp;&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/muralco/muralco-icon.svg" height="30" alt="mural logo" />
+    &nbsp;&nbsp;
+    <a href="https://www.behance.net/priyanshisingh4" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="Behance logo" />
+    </a>
 </div>
+
 
 
 ## 💻 Tech & Frameworks
