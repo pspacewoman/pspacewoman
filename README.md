@@ -12,12 +12,11 @@ I specialize in creating human-centred cross-platform connected designs and reco
 
 <div align="left">
     <a href="https://priyanshisingh.framer.website/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="30" />
+    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="30" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.figma.com/@priyanshisingh" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-    </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
     &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
     &nbsp;&nbsp;
@@ -28,7 +27,7 @@ I specialize in creating human-centred cross-platform connected designs and reco
     <img src="https://www.vectorlogo.zone/logos/muralco/muralco-icon.svg" height="30" alt="mural logo" />
     &nbsp;&nbsp;
     <a href="https://www.behance.net/priyanshisingh4" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="Behance logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="Behance logo" />
     </a>
 </div>
 
