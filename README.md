@@ -17,6 +17,7 @@ I specialize in creating human-centred cross-platform connected designs and reco
     &nbsp;&nbsp;
     <a href="https://www.figma.com/@priyanshisingh" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
+    </a>
     &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
     &nbsp;&nbsp;
