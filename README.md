@@ -25,8 +25,7 @@ I specialize in creating human-centred cross-platform connected designs and reco
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="30" alt="canva logo"/>
   <img width="12"/>
   <img src="https://www.vectorlogo.zone/logos/muralco/muralco-icon.svg" height="30" alt="mural logo"/>
-  <img width="12"/>
-  <a href="https://www.behance.net/priyanshisingh4" target="https://www.behance.net/priyanshisingh4">
+  <img src="https://www.behance.net/priyanshisingh4" target="https://www.behance.net/priyanshisingh4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="Behance logo"/>
     
 </div>
