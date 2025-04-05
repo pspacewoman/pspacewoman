@@ -14,10 +14,6 @@ I specialize in creating human-centred cross-platform connected designs and reco
   <a href="https://www.figma.com/@priyanshisingh" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
     </a>
-    &nbsp;&nbsp;   
-<a href="https://priyanshisingh.framer.website/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="30" />
-    </a>
     &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity logo" />
     &nbsp;&nbsp;
