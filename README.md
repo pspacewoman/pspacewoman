@@ -81,7 +81,7 @@ I specialize in creating human-centred cross-platform connected designs and reco
 ###
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pspacwoman&show_icons=true&theme=tokyonight" alt="pspacwoman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pspacewoman&show_icons=true&theme=tokyonight" alt="pspacewoman's GitHub stats" />
 </p>
 
 ###
