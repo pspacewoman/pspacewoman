@@ -79,6 +79,6 @@ I specialize in creating human-centred cross-platform connected designs and reco
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/flowline.svg" alt="Flowing line animation" width="100%" />
+  <img src="https://github.com/pspacewoman/pspacewoman/blob/main/assets/flowline.svg" alt="Flowing line animation" width="100%" />
 </p>
 
