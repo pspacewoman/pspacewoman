@@ -77,16 +77,6 @@ I specialize in creating human-centred cross-platform connected designs and reco
 
 ###
 
-
-###
-
-<p align="center">
-  <img src="https://github.com/pspacewoman/pspacewoman/blob/main/assets/pacwoman_banner.png" alt="Pac-Woman Banner" />
-</p>
-
-
-###
-
 <p align="center">
   <img src="https://github.com/pspacewoman/pspacewoman/blob/main/assets/flowline.svg" alt="Flowing line animation" width="100%" />
 </p>
