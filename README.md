@@ -3,7 +3,7 @@
 
 I'm a creative problem-solver with a passion for building intuitive, accessible, and user-focused digital experiences. With a background in UX/UI design and hands-on experience in frontend and fullstack development, I bridge the gap between design and engineering to bring ideas to life.
 
-💬 "Design with empathy, build with purpose."
+💬 Design with empathy, build with purpose.
 
 ###
 
