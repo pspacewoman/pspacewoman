@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Priyanshi Singh, and I live in Germany 🇩🇪 </h2>
-<h2 align="left"> UX Designer & Researcher 🚀 | Frontend Development | 👩🏻‍💻 Software Engineer  </h2>
+<h2 align="left"> UX Designer 🚀 | Front-End Developer👩🏻‍💻 | Full-Stack </h2>
 I specialize in creating human-centred cross-platform connected designs and recommend UX solutions backed by intensive research study. Additionally, I improve platforms and designs by adding front-end interactivity. My focus is on usability, accessibility, and seamless user experiences.  
 
 ###
