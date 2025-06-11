@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Priyanshi Singh, and I live in Germany 🇩🇪 </h2>
-<h2 align="left"> UX/UI Designer 🚀 | Front-End Understanding 👩🏻‍💻 </h2>
+<h2 align="left"> UX/UI Designer 🚀 | Front-End Developer 👩🏻‍💻 </h2>
 
 I'm a creative problem-solver with a passion for building intuitive, accessible, and user-focused digital experiences. With a background in UX/UI design and research with hands-on experience in frontend development, I bridge the gap between design and engineering to bring ideas to life.
 
