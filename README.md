@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! My name is Priyanshi Singh, and I live in Germany 🇩🇪 </h2>
-<h2 align="left"> UX/UI Designer 🚀 | Front-End Developer 👩🏻‍💻 </h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+engineer+ft.designer+with+expertise+across;UXD%2C+Unity%2C+and+immersive+technologies" alt="Typing SVG" />
+</div>
 
 I'm a creative problem-solver with a passion for building intuitive, accessible, and user-focused digital experiences. With a background in UX/UI design and research with hands-on experience in frontend development, I bridge the gap between design and engineering to bring ideas to life.
 
