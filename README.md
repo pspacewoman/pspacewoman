@@ -33,7 +33,7 @@ My approach is simple: design with empathy and build with purpose 🚀.
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="Unreal Engine 
     White logo" />
     &nbsp;&nbsp;
-    <img src="https://icons8.com/icons/set/microsoft-copilot" height="30" alt="Copilot Logo" />
+    <img src="https://private-user-images.githubusercontent.com/72687738/312893448-67f562c3-feeb-4bbe-a480-397e0e9fc39f.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAzNzg2MzUsIm5iZiI6MTc2MDM3ODMzNSwicGF0aCI6Ii83MjY4NzczOC8zMTI4OTM0NDgtNjdmNTYyYzMtZmVlYi00YmJlLWE0ODAtMzk3ZTBlOWZjMzlmLnN2Zz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDEzVDE3NTg1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3NjQyNGNiZTdhOTFmY2I2MGNiNTEyNjk5MWZhY2EzM2M0MTE2NTFlZjk2OGY0OWQ2ODM3ZWU2OTk3NmE4MjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.H7qCYC5EJLQaVOcepauSdRKKul6MM1JKTwPPu1XlTQI" height="30" alt="Copilot Logo" />
     &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
     &nbsp;&nbsp;
