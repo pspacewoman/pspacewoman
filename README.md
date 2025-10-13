@@ -3,7 +3,7 @@
 **UX Designer • Unity Developer • AI & Copilot Researcher & Implementor**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines= Multi-disciplinary+researcher+ft.designer+with+expertise+across;UXD%2C+Unity%2C+and+immersive+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+researcher+ft.designer+with+expertise+across;UXD%2C+Unity%2C+and+immersive+technologies" alt="Typing SVG" />
 </div>
 
 I’m a designer and developer along with hands-on experience in AI research (Copilot) and Unity development. My professional and personal project work focuses on designing interfaces, prototyping AR/VR worlds and prototypes, or shaping Copilot AI-powered tools in Microsoft 365. My goal is to make technology feel intuitive, empowering, and human.
