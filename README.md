@@ -1,14 +1,14 @@
 <h2 align="left">Hi 👋! My name is Priyanshi Singh, and I live in Germany 🇩🇪 </h2>
 
+**UX Designer • Unity Developer • AI & Copilot Researcher & Implementor**
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+engineer+ft.designer+with+expertise+across;UXD%2C+Unity%2C+and+immersive+technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+researcher+ft.designer+with+expertise+across;UXD%2C+Unity%2C+and+immersive+technologies" alt="Typing SVG" />
 </div>
 
-I’m a designer and developer with experience in UX design, Unity, VR, and full-stack development. My work focuses on creating intuitive, accessible, and immersive digital experiences that connect design and technology. I enjoy building user-friendly interfaces, developing interactive VR/AR prototypes, and bridging the gap between design and engineering to bring ideas to life. 
+I’m a designer and developer along with hands-on experience in AI research (Copilot) and Unity development. My professional and personal project work focuses on designing interfaces, prototyping AR/VR worlds, or shaping AI-powered tools in M365. My goal is to make technology feel intuitive, empowering, and human.
 
 My approach is simple: design with empathy and build with purpose.
-
-Designer • Developer • Dreamer in Extended Realities 🚀
 
 ###
 
