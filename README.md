@@ -7,7 +7,9 @@
 </div>
 
 I’m a designer and developer along with hands-on experience in AI research (Copilot) and Unity development. 
+
 My professional and personal project work focuses on designing interfaces, prototyping AR/VR worlds and developing gamifications elements on Unity.
+
 Researching and developing Copilot AI-powered tools and agents/bots. My goal is to make technology feel intuitive, empowering, and human.
 
 My approach is simple: design with empathy and build with purpose 🚀.
