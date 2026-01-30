@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+designer+ft.researcher+with+expertise+across;UX+/+UI%2C+Unity%2C+and+Artificial+Intelligence+(+Copilot+AI+)" alt="Typing SVG" />
 </div>
 
-I’m a designer and developer along with hands-on experience in AI research (Copilot) and Unity development. My professional and personal project work focuses on designing interfaces, prototyping AR/VR worlds and prototypes, or researching and developing Copilot AI-powered tools and agents/bots. My goal is to make technology feel intuitive, empowering, and human.
+I’m a designer and developer along with hands-on experience in AI research (Copilot) and Unity development. My professional and personal project work focuses on designing interfaces, prototyping AR/VR worlds and developing gamifications elements on Unity, or researching and developing Copilot AI-powered tools and agents/bots. My goal is to make technology feel intuitive, empowering, and human.
 
 My approach is simple: design with empathy and build with purpose 🚀.
 
