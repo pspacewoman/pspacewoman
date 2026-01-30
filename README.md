@@ -3,7 +3,7 @@
 **UX Designer • Unity Developer • AI & Copilot Researcher & Implementor**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Multi-disciplinary+designer+ft.researcher+with+expertise+across;UX+/+UI%2C+Unity%2C+and+Artificial+Intelligence+(+Copilot+AI+)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=MMulti-disciplinary+designer+ft.researcher+with+expertise+across;UX+/+UI%2C+Unity%2C+and+Artificial+Intelligence+(+Copilot+AI+)" alt="Typing SVG" />
 </div>
 
 I’m a designer and developer along with hands-on experience in AI research (Copilot) and Unity development. 
